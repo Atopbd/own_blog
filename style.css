@@ -70,6 +70,7 @@ a{
 }
 .blogimg{
     width: 400px;
+    height: 260px;
     border: 2px solid white;
     border-radius: 15px;
 }
