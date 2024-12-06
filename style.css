@@ -96,3 +96,19 @@ section{
     margin-left: 75px;
     margin-right: 75px;
 }
+
+.downdiv{
+    height: 220px;
+    width: 100%;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+.downitem{
+    height: 150px;
+    width: 150px;
+    margin-left:25px ;
+    margin-right:25px ;
+}
